@@ -48,32 +48,32 @@
         tools:layout_editor_absoluteY="262dp">
 
         <RadioButton
-            android:id="@+id/radio1"
+            android:id="@+id/radio1_a"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:text="RadioButton 1" />
+            android:text="RadioButton A" />
 
         <RadioButton
-            android:id="@+id/radio2"
+            android:id="@+id/radio1_b"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:text="RadioButton 2" />
+            android:text="RadioButton b" />
 
         <RadioButton
-            android:id="@+id/radio3"
+            android:id="@+id/rado1_c"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:text="RadioButton 3" />
+            android:text="RadioButton c" />
 
         <RadioButton
-            android:id="@+id/radio4"
+            android:id="@+id/radio1_d"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:text="RadioButton 4" />
+            android:text="RadioButton D" />
     </RadioGroup>
     <Space
         android:layout_width="match_parent"
